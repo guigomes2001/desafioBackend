@@ -1,7 +1,7 @@
 # Desafio Backend - Java 
 ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 com Spring Boot 
-![Spring Boot Logo](https://spring.io/images/spring-boot.png)
+![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Spring_Boot-logo.svg)
 
 Este desafio foi realizado com base no proposto do repositório [Desafio de Empréstimos](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md).
 
@@ -9,4 +9,4 @@ O desafio consiste em criar uma lógica em Java utilizando Spring Boot que receb
 
 ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 
-![Spring Boot Logo](https://spring.io/images/spring-boot.png)
+![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Spr
