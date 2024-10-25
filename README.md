@@ -9,4 +9,4 @@ O desafio consiste em criar uma lógica em Java utilizando Spring Boot que receb
 
 ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 
-![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Spr
+![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Spring_Boot-logo.svg)
