@@ -1,7 +1,6 @@
-# Desafio Backend - Java ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-com Spring Boot 
+# Backend Challenge - Java ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+with Spring Boot
 
-Este desafio foi realizado com base no proposto do repositório [Desafio de Empréstimos](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md).
+This challenge was based on the proposal from the Loans Challenge repository.
 
-O desafio consiste em criar uma lógica em Java utilizando Spring Boot que receba uma requisição HTTP POST (utilizado Postman para testes de requisição), com interpretação dos dados passados no 'Body' e retornando os tipos de empréstimos disponíveis para tais dados.
-
+The challenge consists of creating a logic in Java using Spring Boot that receives an HTTP POST request (tested using Postman), interprets the data passed in the 'Body', and returns the types of loans available for the provided data.
